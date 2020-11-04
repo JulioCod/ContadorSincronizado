@@ -1,7 +1,7 @@
-public class ContadorSincronizado {
+public class ContSinc {
     private int cuenta;
 
-    public ContadorSincronizado() {
+    public ContSinc() {
         this.cuenta = 0;
     }
 

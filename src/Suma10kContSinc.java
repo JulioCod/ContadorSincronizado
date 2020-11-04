@@ -1,8 +1,8 @@
-public class Suma10000 extends Thread{
+public class Suma10kContSinc extends Thread{
 
-    private Contador cuenta;
+    private ContSinc cuenta;
 
-    public Suma10000(Contador cuenta) {
+    public Suma10kContSinc(ContSinc cuenta) {
         this.cuenta = cuenta;
     }
 
